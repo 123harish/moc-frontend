@@ -86,3 +86,11 @@
 ### Things that I've completed:
 1. Completed few challenges in the Applied design section of FCC-beta.
 2. Addressed The syncing problems  between github origin and my local.
+
+## Day 08:BootStrap
+
+### Things that I've completed:
+1. Completed the bootstrap section in the FCC site.
+2. Learned about glyphicons and how to include them.
+3. Learned about various other frameworks which are similar to bootstrap such as, semantic.css,materilize.css.
+4. Created a webpage using Bootstrap.
