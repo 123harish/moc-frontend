@@ -94,3 +94,10 @@
 2. Learned about glyphicons and how to include them.
 3. Learned about various other frameworks which are similar to bootstrap such as, semantic.css,materilize.css.
 4. Created a webpage using Bootstrap.
+
+## Day 09:Javascript
+
+### Things that I've completed:
+1. Started Javascript course in Udemy.
+2. Started Javascript course in "Watch and code" site.
+3. Entered the jQuery section in FCC site but will pause it till I complete Javascript course.
