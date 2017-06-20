@@ -1,4 +1,4 @@
-## Day 01: Learned Git and Github
+## 01/06/2017: Learned Git and Github
 
 1. Downloaded git and node js.
 2. Accessed git tutorial - "git-it guide".
@@ -11,7 +11,7 @@
 9. clone - cloning a repo from ur own remote repo to ur local.
 10. Branches: a seperate workstream from the master branch.
 
-## Day 02: Started my Beginner Roadmap
+## 02/06/2017: Started my Beginner Roadmap
 
 ### Started and completed the following sections in the FCC site:
 1. Say Hello to HTML Elements Complete
@@ -49,7 +49,7 @@
 33. Create a Set of Checkboxes Complete
 34. Check Radio Buttons and Checkboxes by Default
 
-## Day 03: Completed HTML and CSS Tracks
+## 05/06/2017: Completed HTML and CSS Tracks
 
 ### Things that I've completed:
 1. Completed the HTML and CSS tracks in FCC site.
@@ -61,7 +61,7 @@
 7. Need to get accquanited to the BOX MODEL in CSS more throughly.
 8. Need to get accquainted to the advanced selectors concepts in CSS.
 
-## Day 04: Box Model
+## 06/06/2017: Box Model
 
 ### Things that I've completed:
 1. Started and completed the Box model.
@@ -73,7 +73,7 @@
 7. Constructed a Tic Tac Toe grid using CSS and HTML.
 8. Should start Bootstrap next.(in general not in FCC)
 
-## Day 06: Project
+## 07/06/2017: Project
 
 ### Things that I've completed:
 1. Completed my photo blog webpage.
@@ -81,13 +81,13 @@
 3. Finished few problems on Dash website.
 4. Created and uploaded my projects on the master branch.
 
-## Day 07:Applied Design
+## 08/06/2017:Applied Design
 
 ### Things that I've completed:
 1. Completed few challenges in the Applied design section of FCC-beta.
 2. Addressed The syncing problems  between github origin and my local.
 
-## Day 08:BootStrap
+## 12/06/2017-14/06/2017:BootStrap
 
 ### Things that I've completed:
 1. Completed the bootstrap section in the FCC site.
@@ -95,9 +95,19 @@
 3. Learned about various other frameworks which are similar to bootstrap such as, semantic.css,materilize.css.
 4. Created a webpage using Bootstrap.
 
-## Day 09:Javascript
+## 16/06/2017:Javascript
 
 ### Things that I've completed:
 1. Started Javascript course in Udemy.
 2. Started Javascript course in "Watch and code" site.
 3. Entered the jQuery section in FCC site but will pause it till I complete Javascript course.
+
+## 20/06/2017:Applied Design,Accessibility And Responsive Design
+
+### Things that I've completed:
+1. Finished Applied Design Section in FCC beta.
+2. Started and finished the Applied Accessibility section in FCC beta.
+3. Started and finished the Responsive Design in FCC beta.
+4. Learned about CSS animations.
+5. Learned about @media property.
+6. Learned about hsl() property.
