@@ -111,3 +111,11 @@
 4. Learned about CSS animations.
 5. Learned about @media property.
 6. Learned about hsl() property.
+
+## 28/06/2017:CSS Flexbox and Watch and Code
+
+### Things that I've completed:
+1. Finished Javascript course in Udemy.
+2. Started and finished OOP section of JS in watch and code.
+3. completed creating a basic todo list using basic js objects.
+4. Started CSS Flexbox in FCC.
